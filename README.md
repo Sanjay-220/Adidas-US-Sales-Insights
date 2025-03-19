@@ -36,7 +36,7 @@ I created two comprehensive Tableau dashboards to present my findings:
 
 The Tableau file is available in the directory and also uploaded in Tableau Public
 
-#Tableau: https://public.tableau.com/views/Sanjay_Ramesh_AdidasPropel/GeographicInsights?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+**Tableau: https://public.tableau.com/views/Sanjay_Ramesh_AdidasPropel/GeographicInsights?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Key Insights
 
