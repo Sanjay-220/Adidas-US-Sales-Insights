@@ -36,7 +36,7 @@ I created two comprehensive Tableau dashboards to present my findings:
 
 The Tableau file is available in the directory and also uploaded in Tableau Public
 
-Tableau: https://public.tableau.com/views/Sanjay_Ramesh_AdidasPropel/GeographicInsights?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+#Tableau: https://public.tableau.com/views/Sanjay_Ramesh_AdidasPropel/GeographicInsights?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Key Insights
 
@@ -55,5 +55,3 @@ Tableau: https://public.tableau.com/views/Sanjay_Ramesh_AdidasPropel/GeographicI
 ## Conclusion
 
 This analysis provides actionable insights for retailers to optimize their strategies, focusing on high-performing regions, product categories, and sales methods while addressing underperforming areas. The visualizations and findings can guide decision-making to improve sales and profitability.
-
-## Repository Structure
